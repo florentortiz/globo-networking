@@ -13,3 +13,6 @@
 
 # .pem files
 *.pem
+
+# In a real case scenario this file have to be included to as it contain backend configuration
+# backend_local.tf
